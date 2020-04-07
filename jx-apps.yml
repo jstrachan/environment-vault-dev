@@ -6,4 +6,5 @@ apps:
 - name: jenkins-x/jxui
 - name: jenkins-x/bucketrepo
 - name: repositories
+  force: true
   repository: ..
